@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE galaxie SYSTEM ".dtd">
+<?xml-stylesheet type="text/xsl" href="definition.xsl" ?>
+<universe>
+	
+	<maintitle>L'univers XML</maintitle><!-- Titre du site -->
+		
+		<title>Accueil</title><!-- Titre de la page -->
+		
+			<subtitle>Présentation du XML<!-- Titre de la sous partie du plan -->
+				
+				<resume><!-- Résumé des sous parties a,b,c du plan -->
+					
+						<paragraph>
+						ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...ML signiﬁe eXtensible Markup Language (language de balisage extensible). Il s’agit d’un nouveau langage développé par le W3C (World Wide Web Consortium), 
+					recommandations du 10 février 1998. 
+Il est né du succès du...
+						</paragraph>
+					
+				</resume>
+				
+				<resume >
+					<title-article>Les compléments/la validation</title-article>
+					<paragraph>Pour utiliser un fichier XML, il faut au minimum que le document soit bien formé, c'est 
+					à dire qu'à une ouverture de balise correspond bien sa fermeture, que chaque balise ne comporte qu'un mot qui commence par une lettre...</paragraph>
+				</resume>
+				
+				<resume>
+					<title-article>La galaxie XML</title-article>
+					<paragraph>Si nous devions “dessiner” cette galaxie, nous aurions : 
+Au centre : XML...
+</paragraph>
+				</resume>
+				
+			</subtitle>
+			
+		
+			
+</universe>
